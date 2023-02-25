@@ -31,3 +31,8 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     border: 0;
 
 }
+
+
+li {
+  list-style: none;
+}
